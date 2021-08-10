@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.5.2" Company="AlphaTheta"/>
+  <COLLECTION Entries="3681">
+    <TRACK TrackID="145216649" Name="Versace On The Floor (Bruno Mars vs. David Guetta)"
+           Artist="Bruno Mars &amp; David Guetta" Composer="" Album="Versace On The Floor (Bruno Mars vs. David Guetta) - Single"
+           Grouping="" Genre="Pop" Kind="M4A File" Size="8072068" TotalTime="228"
+           DiscNumber="0" TrackNumber="1" Year="2017" AverageBpm="100.00"
+           DateAdded="2017-07-08" BitRate="256" SampleRate="44100" Comments=""
+           PlayCount="16" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.355" Bpm="100.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="17391724" Name="Swish Swish (DU)" Artist="Katy Perry"
+           Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6095973"
+           TotalTime="253" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="120.00"
+           DateAdded="2017-07-08" BitRate="192" SampleRate="44100" Comments=""
+           PlayCount="3" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.026" Bpm="120.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="256678953" Name="Krantenwijk (DU)" Artist="Lil Kleine"
+           Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4969991"
+           TotalTime="206" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="120.00"
+           DateAdded="2017-07-08" BitRate="192" SampleRate="44100" Comments=""
+           PlayCount="11" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.027" Bpm="120.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="142485071" Name="I Would Like (DU)" Artist="Zara Larsson"
+           Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5395057"
+           TotalTime="224" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="122.00"
+           DateAdded="2017-07-08" BitRate="192" SampleRate="44100" Comments=""
+           PlayCount="7" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.177" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="127690581" Name="Know No Better (feat. Travis Scott, Camila Cabello &amp; Quavo)"
+           Artist="Major Lazer" Composer="Diplo, Jr. Blender &amp; King Henry"
+           Album="Know No Better - EP" Grouping="" Genre="Electronic" Kind="M4A File"
+           Size="7894774" TotalTime="225" DiscNumber="0" TrackNumber="1"
+           Year="2017" AverageBpm="119.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="21" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.198" Bpm="119.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="195607898" Name="Alleen" Artist="Lil Kleine" Composer="Julien Willemsen"
+           Album="Alleen - Single" Grouping="" Genre="Hiphop/Rap" Kind="M4A File"
+           Size="7092792" TotalTime="198" DiscNumber="0" TrackNumber="1"
+           Year="2017" AverageBpm="120.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.039" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="51.040" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="51.539" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="52.040" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="52.539" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="53.040" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="53.539" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="54.040" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="54.539" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="55.040" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="55.539" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="56.040" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="56.539" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="57.040" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="57.539" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="58.040" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="58.539" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="59.040" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="59.539" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="60.040" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="60.539" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="61.040" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="61.539" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="62.040" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="62.539" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="63.040" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="63.539" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="64.040" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="64.539" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="65.040" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="65.539" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="66.040" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="66.539" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="67.040" Bpm="120.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="26263511" Name="Love on the Brain" Artist="Rihanna"
+           Composer="F. Ball, J. Angel &amp; R Fenty" Album="ANTI (Deluxe)"
+           Grouping="" Genre="Pop" Kind="M4A File" Size="7954353" TotalTime="224"
+           DiscNumber="0" TrackNumber="11" Year="2016" AverageBpm="86.00"
+           DateAdded="2017-07-08" BitRate="256" SampleRate="44100" Comments=""
+           PlayCount="1" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.342" Bpm="86.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="260927363" Name="Habiba" Artist="Boef" Composer="Sofiane Boussaadia"
+           Album="Slaaptekort" Grouping="" Genre="Hiphop/Rap" Kind="M4A File"
+           Size="7633761" TotalTime="216" DiscNumber="0" TrackNumber="5"
+           Year="2017" AverageBpm="127.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.167" Bpm="127.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.640" Bpm="127.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="68.672" Bpm="127.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="223572155" Name="Is Dit Over (feat. Tabitha)" Artist="Ronnie Flex"
+           Composer="Ronell Plasschaert &amp; Tibari Bahaj" Album="Rémi"
+           Grouping="" Genre="Hiphop/Rap" Kind="M4A File" Size="6954538"
+           TotalTime="195" DiscNumber="0" TrackNumber="10" Year="2017" AverageBpm="98.00"
+           DateAdded="2017-07-08" BitRate="256" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.177" Bpm="98.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.790" Bpm="98.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="99201722" Name="Wild Thoughts (feat. Rihanna &amp; Bryson Tiller)"
+           Artist="DJ Khaled" Composer="Bryson Tiller, Jahron Brathwaite, Khaled Khaled, robyn fenty, Jerry Duplessis, Wyclef Jean, David McRae, High Moore &amp; Carlos Santana"
+           Album="Grateful" Grouping="" Genre="Hiphop/Rap" Kind="M4A File"
+           Size="7365615" TotalTime="204" DiscNumber="0" TrackNumber="3"
+           Year="2017" AverageBpm="98.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="3" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.458" Bpm="98.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="152864245" Name="Sunny Days (feat. Josh Cumbee)" Artist="Armin van Buuren"
+           Composer="Armin van Buuren, Benno De Goeij, Toby Gad, Gordon Groothedde &amp; Afshin Salmani"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="7526346" TotalTime="210" DiscNumber="1" TrackNumber="2"
+           Year="2017" AverageBpm="115.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="5" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.302" Bpm="115.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="58837945" Name="More Than You Know" Artist="Axwell Ingrosso"
+           Composer="Sebastian Ingrosso, Vincent Pontare, Salem Al Fakir, Richard Zastenker &amp; Axel Hedfors"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="7191698" TotalTime="201" DiscNumber="1" TrackNumber="16"
+           Year="2017" AverageBpm="123.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="12" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.319" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="114141980" Name="Symphony (feat. Zara Larsson)" Artist="Clean Bandit"
+           Composer="Jack Patterson, Ina Wroldsen, Steve Mac &amp; Ammar Malik"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="7477886" TotalTime="211" DiscNumber="1" TrackNumber="24"
+           Year="2017" AverageBpm="123.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="2" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.355" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="148828882" Name="I&apos;m the One (feat. Justin Bieber, Quavo, Chance the Rapper &amp; Lil Wayne)"
+           Artist="DJ Khaled" Composer="Justin Bieber, Khaled Khaled, Jason Boyd, Quavious Marshall, Chancelor Bennett, Dwayne Carter, Jr., Nicholas Balding, David Park, Bobby Brackins &amp; Ray Jacobs"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="10038710" TotalTime="287" DiscNumber="1" TrackNumber="6"
+           Year="2017" AverageBpm="81.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="1" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.323" Bpm="81.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="78475727" Name="Subeme La Radio (feat. Descemer Bueno &amp; Zion &amp; Lennox)"
+           Artist="Enrique Iglesias" Composer="Enrique Iglesias, Descemer Bueno, Carlos E. Ortiz Rivera, Felix Ortiz, Gabriel Pizarro, Juan G. Rivera &amp; Luis E. Ortiz Rivera"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="7393158" TotalTime="207" DiscNumber="1" TrackNumber="1"
+           Year="2017" AverageBpm="91.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="7" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.633" Bpm="91.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="7.227" Bpm="91.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="135.799" Bpm="91.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="158049537" Name="Unforgettable (feat. Swae Lee)" Artist="French Montana"
+           Composer="Karim Kharbouch, Khalif Brown, Michael L. Williams II, Christopher Washington, McCulloch Reid Sutphin &amp; Aujla Jagvir Singh"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="8412467" TotalTime="233" DiscNumber="1" TrackNumber="10"
+           Year="2017" AverageBpm="98.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="2" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.333" Bpm="98.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="1.558" Bpm="98.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="92.783" Bpm="98.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="214.008" Bpm="98.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="40720728" Name="Strip That Down (feat. Quavo)" Artist="Liam Payne"
+           Composer="Liam Payne, Steve Mac, Ed Sheeran, Quavious Marshall, Orville Burrell, Rickardo Ducent, Shaun Pizzonia, Brian Thompson, Sylvester Allen, Harold Ray Brown, Morris Dickerson, Le Roy Jordan, Charles Miller, Lee Oskar &amp; Howard E. Scott"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="7223462" TotalTime="202" DiscNumber="1" TrackNumber="18"
+           Year="2017" AverageBpm="106.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="1" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.342" Bpm="106.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="157.701" Bpm="106.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="255048841" Name="Felices Los 4" Artist="Maluma" Composer="Juan Luis Londoño Arias, Servando Primera, Mario Cáceres, Kevin Mauricio Jiménez Londoño, Bryan Snaider Lezcano &amp; Stiven Rojas"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="8083103" TotalTime="229" DiscNumber="1" TrackNumber="37"
+           Year="2017" AverageBpm="94.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="1" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.368" Bpm="94.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="1.007" Bpm="94.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="21357859" Name="There for You" Artist="Martin Garrix &amp; Troye Sivan"
+           Composer="Martijn Garritsen, Troye Sivan Mellet, William Lobban Bean, Ben Burgess, Jessie Thomas &amp; Brett McLaughlin"
+           Album="538 Hitzone 82" Grouping="" Genre="Dance" Kind="M4A File"
+           Size="7829304" TotalTime="219" DiscNumber="1" TrackNumber="29"
+           Year="2017" AverageBpm="106.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="5" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.381" Bpm="106.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="5.476" Bpm="106.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="21.324" Bpm="106.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="21.891" Bpm="106.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="114.720" Bpm="106.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="115.287" Bpm="106.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="208.682" Bpm="106.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="209.249" Bpm="106.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="36141772" Name="Malibu" Artist="Miley Cyrus" Composer="Miley Cyrus &amp; Oren Yoel"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="8233957" TotalTime="230" DiscNumber="1" TrackNumber="28"
+           Year="2017" AverageBpm="140.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="3" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.389" Bpm="140.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="256857429" Name="Your Song" Artist="Rita Ora" Composer="Steve Mac &amp; Edward Sheeran"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="6527438" TotalTime="180" DiscNumber="1" TrackNumber="43"
+           Year="2017" AverageBpm="118.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="14" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.050" Bpm="118.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="264178852" Name="Ok" Artist="Robin Schulz &amp; James Blunt"
+           Composer="Robin Schulz, James Blunt, M. McDonald &amp; S. Mac"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="6837567" TotalTime="189" DiscNumber="1" TrackNumber="42"
+           Year="2017" AverageBpm="122.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="1" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.313" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="236869314" Name="There&apos;s Nothing Holdin&apos; Me Back"
+           Artist="Shawn Mendes" Composer="Shawn Mendes, Teddy Geiger, Scott Harris &amp; Geoff Warburton"
+           Album="538 Hitzone 82" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="7169068" TotalTime="198" DiscNumber="1" TrackNumber="5"
+           Year="2016" AverageBpm="122.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.400" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="29264620" Name="La Colegiala (feat. Jody Bernal)" Artist="The Boy Next Door &amp; Fresh Coast"
+           Composer="W. Aguilar" Album="538 Hitzone 82" Grouping="" Genre="Pop"
+           Kind="M4A File" Size="6973341" TotalTime="179" DiscNumber="1"
+           TrackNumber="23" Year="2017" AverageBpm="108.00" DateAdded="2017-07-08"
+           BitRate="256" SampleRate="44100" Comments="" PlayCount="11" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.304" Bpm="108.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="189690277" Name="Mama (feat. William Singe)" Artist="Jonas Blue"
+           Composer="Guy James Robin, Ed Drewett &amp; Sam Roman" Album="Mama (feat. William Singe) - Single"
+           Grouping="" Genre="Dance" Kind="M4A File" Size="6603694" TotalTime="184"
+           DiscNumber="0" TrackNumber="1" Year="2017" AverageBpm="104.00"
+           DateAdded="2017-07-08" BitRate="256" SampleRate="44100" Comments=""
+           PlayCount="22" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.073" Bpm="104.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="235017535" Name="Big Mamma" Artist="Lawineboys" Composer=""
+           Album="Big Mamma - Single" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="5481669" TotalTime="148" DiscNumber="0" TrackNumber="1"
+           Year="2017" AverageBpm="135.00" DateAdded="2017-07-08" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.181" Bpm="135.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="41708974" Name="Dreadlock Holiday" Artist="10CC" Composer=""
+           Album="100 Nr. 1 Hits Vol. 1" Grouping="" Genre="Pop" Kind="MP3 File"
+           Size="7502891" TotalTime="265" DiscNumber="2" TrackNumber="6"
+           Year="2007" AverageBpm="105.16" DateAdded="2017-08-19" BitRate="0"
+           SampleRate="44100" Comments="4UsOnly.biz" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="" Label="4UsOnly.biz" Mix="">
+      <TEMPO Inizio="0.306" Bpm="105.16" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="23707129" Name="Peaches And Cream" Artist="112" Composer=""
+           Album="Onbekend album (20-9-2005 10:5" Grouping="" Genre="R&amp;B/Soul"
+           Kind="MP3 File" Size="5760113" TotalTime="238" DiscNumber="0"
+           TrackNumber="1" Year="0" AverageBpm="102.00" DateAdded="2017-08-19"
+           BitRate="192" SampleRate="44100" Comments="5th" PlayCount="0"
+           Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.039" Bpm="102.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="0.628" Bpm="102.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="51.805" Bpm="102.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="102.982" Bpm="102.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="144.159" Bpm="102.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="205.336" Bpm="102.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="58587149" Name="Dance With Me" Artist="112" Composer=""
+           Album="" Grouping="" Genre="R&amp;B/Soul" Kind="MP3 File" Size="5596970"
+           TotalTime="231" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="101.63"
+           DateAdded="2017-08-19" BitRate="192" SampleRate="44100" Comments="5th"
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="6m" Label="" Mix="">
+      <TEMPO Inizio="0.119" Bpm="101.63" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="38.494" Bpm="101.63" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="170549048" Name="Never Alone" Artist="2 Brothers On the 4th Floor"
+           Composer="" Album="90&apos;s Collected, Vol. 1" Grouping="" Genre="Dance"
+           Kind="M4A File" Size="9455759" TotalTime="251" DiscNumber="1"
+           TrackNumber="1" Year="2010" AverageBpm="128.02" DateAdded="2017-08-19"
+           BitRate="256" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.110" Bpm="128.02" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="232726633" Name="Dreams (Will Come Alive)" Artist="2 Brothers On The 4th Floor"
+           Composer="" Album="90s Club Classix Top 100" Grouping="" Genre="Dance"
+           Kind="MP3 File" Size="7141005" TotalTime="262" DiscNumber="1"
+           TrackNumber="5" Year="2008" AverageBpm="134.01" DateAdded="2017-08-19"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="11m" Label="" Mix="">
+      <TEMPO Inizio="0.143" Bpm="134.01" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="206794180" Name="California love" Artist="2 pac" Composer=""
+           Album="Onbekend album (20-9-2005 10:53:30)" Grouping="" Genre="R&amp;B/Soul"
+           Kind="MP3 File" Size="5942977" TotalTime="246" DiscNumber="0"
+           TrackNumber="3" Year="0" AverageBpm="91.53" DateAdded="2017-08-19"
+           BitRate="192" SampleRate="44100" Comments="5th" PlayCount="0"
+           Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.481" Bpm="91.53" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="92862350" Name="No Limit" Artist="2 Unlimited" Composer="A. Dells, Philip Marnix Luc De Wilde, Jean Paul De Coster &amp; Ray Slijngaard"
+           Album="Het Beste Uit De Q Music Top 500 Van Het Foute Uur" Grouping=""
+           Genre="90&apos;s" Kind="M4A File" Size="7580938" TotalTime="210"
+           DiscNumber="1" TrackNumber="2" Year="2014" AverageBpm="141.08"
+           DateAdded="2017-08-19" BitRate="256" SampleRate="44100" Comments=""
+           PlayCount="1" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.324" Bpm="141.08" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="189.152" Bpm="141.08" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="84246226" Name="Do for Love" Artist="2Pac" Composer="Kenneth Karlin, Bobby Caldwell, Tupac Shakur, Chicken Shack &amp; Alfons Fernando Kettner"
+           Album="R U Still Down? (Remember Me)" Grouping="" Genre="R&amp;B/Soul"
+           Kind="M4A File" Size="9915478" TotalTime="281" DiscNumber="2"
+           TrackNumber="6" Year="1997" AverageBpm="94.98" DateAdded="2017-08-19"
+           BitRate="256" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.215" Bpm="94.98" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="28093506" Name="Changes" Artist="2Pac" Composer="" Album=""
+           Grouping="" Genre="" Kind="MP3 File" Size="5424012" TotalTime="269"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="111.10" DateAdded="2017-08-19"
+           BitRate="160" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="1d" Label="" Mix="">
+      <TEMPO Inizio="0.422" Bpm="111.10" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="3.123" Bpm="111.10" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="17.705" Bpm="111.10" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="31.747" Bpm="111.10" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="45.789" Bpm="111.10" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="59.831" Bpm="111.10" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="74.413" Bpm="111.10" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="88.995" Bpm="111.10" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="103.037" Bpm="111.10" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="117.079" Bpm="111.10" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="131.661" Bpm="111.10" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="145.703" Bpm="111.10" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="160.285" Bpm="111.10" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="174.867" Bpm="111.10" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="188.909" Bpm="111.10" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="202.951" Bpm="111.10" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="216.993" Bpm="111.10" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="231.575" Bpm="111.10" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="246.157" Bpm="111.10" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="260.199" Bpm="111.10" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="230974168" Name="Dear Mama" Artist="2Pac" Composer=""
+           Album="" Grouping="" Genre="" Kind="MP3 File" Size="4502328"
+           TotalTime="279" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="84.11"
+           DateAdded="2017-08-19" BitRate="128" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.307" Bpm="84.11" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="1.021" Bpm="84.11" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="23.847" Bpm="84.11" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="48.813" Bpm="84.11" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="67.359" Bpm="84.11" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="92.325" Bpm="84.11" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="117.291" Bpm="84.11" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="140.117" Bpm="84.11" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="160.803" Bpm="84.11" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="185.769" Bpm="84.11" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="208.595" Bpm="84.11" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="231.421" Bpm="84.11" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="254.247" Bpm="84.11" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="279.213" Bpm="84.11" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="16529509" Name="How Do U Want It" Artist="2Pac &amp; K-Ci &amp; JoJo"
+           Composer="" Album="All Eyez On Me (Remastered)" Grouping="" Genre="R&amp;B/Soul"
+           Kind="M4A File" Size="10921393" TotalTime="287" DiscNumber="1"
+           TrackNumber="5" Year="1996" AverageBpm="92.50" DateAdded="2017-08-19"
+           BitRate="256" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.413" Bpm="92.50" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="132709631" Name="Changes (1998 Greatest Hits)" Artist="2Pac &amp; Talent"
+           Composer="Bruce Hornsby, Tupac Shakur &amp; Dion Evans" Album="2Pac Greatest Hits"
+           Grouping="" Genre="R&amp;B/Soul" Kind="M4A File" Size="9524510"
+           TotalTime="268" DiscNumber="2" TrackNumber="5" Year="1998" AverageBpm="111.10"
+           DateAdded="2017-08-19" BitRate="256" SampleRate="44100" Comments="(1998 Greatest Hits)"
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.309" Bpm="111.10" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="22.992" Bpm="111.10" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="45.675" Bpm="111.10" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="68.358" Bpm="111.10" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="90.501" Bpm="111.10" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="113.184" Bpm="111.10" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="135.867" Bpm="111.10" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="158.550" Bpm="111.10" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="181.233" Bpm="111.10" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="203.916" Bpm="111.10" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="226.599" Bpm="111.10" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="241.181" Bpm="111.10" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="263.864" Bpm="111.10" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="187584114" Name="Kryptonite" Artist="3 Doors Down" Composer="Brad Arnold, Todd Harrell &amp; Matt Roberts"
+           Album="Veronica 00&apos;s Top 500" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="8645292" TotalTime="233" DiscNumber="2" TrackNumber="2"
+           Year="2012" AverageBpm="98.96" DateAdded="2017-08-19" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.340" Bpm="98.96" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.947" Bpm="98.96" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="124.026" Bpm="98.96" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="204003946" Name="What&apos;s Up?" Artist="4 Non Blondes"
+           Composer="Linda Perry" Album="Q Music Top 500 Van De 90s" Grouping=""
+           Genre="Alternatief" Kind="M4A File" Size="9027606" TotalTime="255"
+           DiscNumber="1" TrackNumber="14" Year="0" AverageBpm="134.71"
+           DateAdded="2017-08-19" BitRate="256" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.248" Bpm="134.71" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="0.694" Bpm="134.71" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="154.358" Bpm="134.71" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="112853112" Name="Take Me Away (Into the Night)" Artist="4 Strings"
+           Composer="" Album="The Very Best Dance Ever" Grouping="" Genre="Dance"
+           Kind="M4A File" Size="6288691" TotalTime="191" DiscNumber="1"
+           TrackNumber="26" Year="0" AverageBpm="138.01" DateAdded="2017-08-19"
+           BitRate="256" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.306" Bpm="138.01" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="53095387" Name="Disco Inferno" Artist="50 Cent" Composer=""
+           Album="CANDY SHOP" Grouping="" Genre="R&amp;B/Soul" Kind="MP3 File"
+           Size="8737724" TotalTime="217" DiscNumber="0" TrackNumber="0"
+           Year="0" AverageBpm="97.02" DateAdded="2017-08-19" BitRate="320"
+           SampleRate="44100" Comments="5th" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="8m" Label="" Mix="">
+      <TEMPO Inizio="0.246" Bpm="97.02" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.865" Bpm="97.02" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="18.180" Bpm="97.02" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="44.153" Bpm="97.02" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="70.126" Bpm="97.02" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="91.770" Bpm="97.02" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="117.743" Bpm="97.02" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="139.387" Bpm="97.02" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="165.360" Bpm="97.02" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="191.333" Bpm="97.02" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="212.977" Bpm="97.02" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="6479311" Name="In Da Club" Artist="50 Cent" Composer="Andre R. Young, Curtis Jackson &amp; Mike Elizondo"
+           Album="Get Rich or Die Tryin" Grouping="" Genre="R&amp;B/Soul"
+           Kind="M4A File" Size="7024623" TotalTime="193" DiscNumber="1"
+           TrackNumber="5" Year="2003" AverageBpm="90.01" DateAdded="2017-08-19"
+           BitRate="0" SampleRate="44100" Comments="5th" PlayCount="1" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.651" Bpm="90.01" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="237591273" Name="Candy Shop" Artist="50 Cent" Composer="Curtis Jackson &amp; Scott Storch"
+           Album="The Massacre" Grouping="" Genre="R&amp;B/Soul" Kind="M4A File"
+           Size="7619629" TotalTime="209" DiscNumber="1" TrackNumber="7"
+           Year="2005" AverageBpm="98.01" DateAdded="2017-08-19" BitRate="0"
+           SampleRate="44100" Comments="5th" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.078" Bpm="98.01" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="9566638" Name="Candy Shop (acapella)" Artist="50 Cent"
+           Composer="" Album="" Grouping="" Genre="Acapella" Kind="MP3 File"
+           Size="7164269" TotalTime="178" DiscNumber="0" TrackNumber="0"
+           Year="0" AverageBpm="144.96" DateAdded="2017-08-19" BitRate="320"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.267" Bpm="144.96" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="202029134" Name="Just A Lil Bit" Artist="50 Cent" Composer=""
+           Album="" Grouping="" Genre="R&amp;B/Soul" Kind="MP3 File" Size="5787365"
+           TotalTime="240" DiscNumber="0" TrackNumber="0" Year="2005" AverageBpm="96.90"
+           DateAdded="2017-08-19" BitRate="192" SampleRate="44100" Comments="5th"
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="10m" Label="" Mix="">
+      <TEMPO Inizio="0.052" Bpm="96.90" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="70.020" Bpm="96.90" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="130.700" Bpm="96.90" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="191.380" Bpm="96.90" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="68123162" Name="21 Questions" Artist="50 Cent &amp; Nate Dogg"
+           Composer="Curtis Jackson, Jimmy Cameron &amp; Vella Maria Cameron"
+           Album="Get Rich or Die Tryin" Grouping="" Genre="R&amp;B/Soul"
+           Kind="M4A File" Size="7809170" TotalTime="224" DiscNumber="1"
+           TrackNumber="14" Year="2003" AverageBpm="93.05" DateAdded="2017-08-19"
+           BitRate="0" SampleRate="44100" Comments="5ht" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.595" Bpm="93.05" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="40915960" Name="Ayo Technology" Artist="50 Cent (Feat. Justin Timberlake)"
+           Composer="" Album="Curtis" Grouping="" Genre="R&amp;B/Soul" Kind="MP3 File"
+           Size="5951559" TotalTime="246" DiscNumber="0" TrackNumber="0"
+           Year="2007" AverageBpm="140.03" DateAdded="2017-08-19" BitRate="192"
+           SampleRate="44100" Comments="5th" PlayCount="3" Rating="0" 
+           Remixer="" Tonality="6m" Label="" Mix="">
+      <TEMPO Inizio="0.343" Bpm="140.03" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="0.772" Bpm="140.03" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="11.913" Bpm="140.03" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="33.766" Bpm="140.03" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="55.619" Bpm="140.03" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="77.472" Bpm="140.03" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="99.325" Bpm="140.03" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="121.178" Bpm="140.03" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="143.031" Bpm="140.03" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="164.884" Bpm="140.03" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="186.737" Bpm="140.03" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="208.590" Bpm="140.03" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="230.443" Bpm="140.03" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="119901440" Name="Bye Bye Bye" Artist="*NSYNC" Composer="Jake Schulze, Kristian Lundin &amp; Andreas Carlsson"
+           Album="Q Music Top 500 Van De 90s" Grouping="" Genre="Pop" Kind="M4A File"
+           Size="7402894" TotalTime="198" DiscNumber="3" TrackNumber="3"
+           Year="0" AverageBpm="86.28" DateAdded="2017-08-19" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.412" Bpm="86.28" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="1.108" Bpm="86.28" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="32.402" Bpm="86.28" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="51.874" Bpm="86.28" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="79.691" Bpm="86.28" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="107.508" Bpm="86.28" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="138.802" Bpm="86.28" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="158.274" Bpm="86.28" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="189.568" Bpm="86.28" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="42249678" Name="Enjoy Yourself" Artist="A+" Composer=""
+           Album="" Grouping="" Genre="R&amp;B/Soul" Kind="MP3 File" Size="8843826"
+           TotalTime="220" DiscNumber="0" TrackNumber="2" Year="0" AverageBpm="101.31"
+           DateAdded="2017-08-19" BitRate="320" SampleRate="44100" Comments="5th"
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.297" Bpm="101.31" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="3.851" Bpm="101.31" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="21.619" Bpm="101.31" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="39.979" Bpm="101.31" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="50.640" Bpm="101.31" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="69.000" Bpm="101.31" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="82.030" Bpm="101.31" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="99.798" Bpm="101.31" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="118.158" Bpm="101.31" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="131.188" Bpm="101.31" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="149.548" Bpm="101.31" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="162.578" Bpm="101.31" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="180.938" Bpm="101.31" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="191.599" Bpm="101.31" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="209.959" Bpm="101.31" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="162333620" Name="Take On Me" Artist="A-Ha" Composer=""
+           Album="" Grouping="" Genre="Disco&amp;Oud" Kind="MP3 File" Size="3703000"
+           TotalTime="230" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="168.98"
+           DateAdded="2017-08-19" BitRate="128" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.118" Bpm="168.98" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="139.305" Bpm="168.98" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="155045115" Name="Rock the Boat" Artist="Aaliyah" Composer=""
+           Album="Aaliyah" Grouping="" Genre="R&amp;B/Soul" Kind="M4A File"
+           Size="9143728" TotalTime="275" DiscNumber="1" TrackNumber="3"
+           Year="2001" AverageBpm="92.98" DateAdded="2017-08-19" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.109" Bpm="92.98" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.755" Bpm="92.98" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="18.824" Bpm="92.98" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="36.893" Bpm="92.98" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="61.415" Bpm="92.98" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="79.484" Bpm="92.98" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="97.553" Bpm="92.98" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="122.075" Bpm="92.98" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="146.597" Bpm="92.98" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="164.666" Bpm="92.98" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="189.188" Bpm="92.98" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="207.257" Bpm="92.98" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="231.779" Bpm="92.98" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="249.848" Bpm="92.98" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="267.917" Bpm="92.98" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="257556823" Name="More Than a Woman" Artist="Aaliyah"
+           Composer="S. Garrett &amp; T. Mosley" Album="Aaliyah" Grouping=""
+           Genre="R&amp;B/Soul" Kind="M4A File" Size="7737284" TotalTime="230"
+           DiscNumber="1" TrackNumber="4" Year="2001" AverageBpm="86.98"
+           DateAdded="2017-08-19" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.239" Bpm="86.98" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="88279794" Name="Try Again" Artist="Aaliyah" Composer="Stephen J. Garrett &amp; Timbaland"
+           Album="Aaliyah" Grouping="" Genre="R&amp;B/Soul" Kind="M4A File"
+           Size="9330600" TotalTime="285" DiscNumber="1" TrackNumber="15"
+           Year="2001" AverageBpm="93.02" DateAdded="2017-08-19" BitRate="256"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.196" Bpm="93.02" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="41.478" Bpm="93.02" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="42.122" Bpm="93.02" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="42.768" Bpm="93.02" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="138.232" Bpm="93.02" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="139.521" Bpm="93.02" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="140.167" Bpm="93.02" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="211.120" Bpm="93.02" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="211.764" Bpm="93.02" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="212.410" Bpm="93.02" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="196941512" Name="Miss You" Artist="Aaliyah" Composer="Elgin Lumpkin, Johnta Austin &amp; Teddy Bishop"
+           Album="Aaliyah" Grouping="" Genre="R&amp;B/Soul" Kind="M4A File"
+           Size="8179752" TotalTime="245" DiscNumber="1" TrackNumber="16"
+           Year="2001" AverageBpm="109.86" DateAdded="2017-08-19" BitRate="256"
+           SampleRate="44100" Comments="(Main)" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.276" Bpm="109.86" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="16.661" Bpm="109.86" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="40.146" Bpm="109.86" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="63.631" Bpm="109.86" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="87.116" Bpm="109.86" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="110.601" Bpm="109.86" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="126.986" Bpm="109.86" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="150.471" Bpm="109.86" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="173.956" Bpm="109.86" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="197.441" Bpm="109.86" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="213.826" Bpm="109.86" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="237.311" Bpm="109.86" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="215505890" Name="Back And Forth" Artist="Aaliyah" Composer=""
+           Album="Time Life Body &amp; Soul - Midnight Seductiont" Grouping=""
+           Genre="R&amp;B/Soul" Kind="MP3 File" Size="5583125" TotalTime="231"
+           DiscNumber="0" TrackNumber="3" Year="2008" AverageBpm="92.94"
+           DateAdded="2017-08-19" BitRate="192" SampleRate="44100" Comments="5th"
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="Gm" Label="Polydor" Mix="">
+      <TEMPO Inizio="0.304" Bpm="92.94" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="23671614" Name="Are You That Somebody" Artist="Aaliyah"
+           Composer="" Album="Ultimate" Grouping="" Genre="R&amp;B/Soul"
+           Kind="MP3 File" Size="6461462" TotalTime="267" DiscNumber="0"
+           TrackNumber="0" Year="2005" AverageBpm="138.04" DateAdded="2017-08-19"
+           BitRate="192" SampleRate="44100" Comments="5th" PlayCount="0"
+           Rating="0" 
+           Remixer="" Tonality="12m" Label="" Mix="">
+      <TEMPO Inizio="0.394" Bpm="138.04" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="254755910" Name="Back In One Piece (Dieter Skipt DMX edit)"
+           Artist="Aaliyah" Composer="" Album="" Grouping="" Genre="R&amp;B/Soul"
+           Kind="MP3 File" Size="4912425" TotalTime="122" DiscNumber="0"
+           TrackNumber="0" Year="0" AverageBpm="88.22" DateAdded="2017-08-19"
+           BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.020" Bpm="88.22" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="14.303" Bpm="88.22" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="63.272" Bpm="88.22" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="100.679" Bpm="88.22" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="2064136" Name="Love Potion (Original)" Artist="Aaron Ross Feat. Gia Mellish"
+           Composer="" Album="Hed Kandi: Beach House 2008 (USA Edition)"
+           Grouping="" Genre="Dance" Kind="MP3 File" Size="9656146" TotalTime="399"
+           DiscNumber="0" TrackNumber="7" Year="2008" AverageBpm="126.00"
+           DateAdded="2017-08-19" BitRate="0" SampleRate="44100" Comments="F"
+           PlayCount="0" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.107" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="247.725" Bpm="126.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="58517179" Name="Mamma Mia" Artist="ABBA" Composer="Benny Andersson, Stig Anderson &amp; Björn Ulvaeus"
+           Album="ABBA Gold" Grouping="" Genre="Pop" Kind="M4A File" Size="7901800"
+           TotalTime="212" DiscNumber="1" TrackNumber="4" Year="2014" AverageBpm="137.53"
+           DateAdded="2017-08-19" BitRate="256" SampleRate="44100" Comments=""
+           PlayCount="5" Rating="0" 
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.105" Bpm="137.53" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="4.032" Bpm="137.53" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="92.595" Bpm="137.53" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="181.158" Bpm="137.53" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="222932594" Name="Gimme Gimme Gimme" Artist="Abba" Composer=""
+           Album="Gold (Remastered Australian Retail)" Grouping="" Genre="Disco&amp;Oud"
+           Kind="MP3 File" Size="6934821" TotalTime="287" DiscNumber="0"
+           TrackNumber="14" Year="2003" AverageBpm="120.04" DateAdded="2017-08-19"
+           BitRate="192" SampleRate="44100" Comments="" PlayCount="2" Rating="0"
+           
+           Remixer="" Tonality="" Label="4UsOnly.biz" Mix="">
+      <TEMPO Inizio="0.295" Bpm="120.04" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="205471245" Name="Waterloo" Artist="Abba" Composer=""
+           Album="Gold (Remastered Australian Retail)" Grouping="" Genre="Disco&amp;Oud"
+           Kind="MP3 File" Size="4048721" TotalTime="168" DiscNumber="0"
+           TrackNumber="19" Year="2003" AverageBpm="146.84" DateAdded="2017-08-19"
+           BitRate="192" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="3d" Label="4UsOnly.biz" Mix="">
+      <TEMPO Inizio="0.406" Bpm="146.84" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="132848839" Name="Happy New Year" Artist="Abba" Composer=""
+           Album="Onbekend album (19-10-2004 21" Grouping="" Genre="Disco&amp;Oud"
+           Kind="MP3 File" Size="10625304" TotalTime="265" DiscNumber="0"
+           TrackNumber="0" Year="0" AverageBpm="131.91" DateAdded="2017-08-19"
+           BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.452" Bpm="131.91" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="259919107" Name="Yakalelo" Artist="Absolument 90" Composer=""
+           Album="Les plus grands tubes français" Grouping="" Genre="Pop"
+           Kind="MP3 File" Size="5257554" TotalTime="218" DiscNumber="0"
+           TrackNumber="0" Year="1998" AverageBpm="121.40" DateAdded="2017-08-19"
+           BitRate="192" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.242" Bpm="121.40" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="1.231" Bpm="121.40" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="17.047" Bpm="121.40" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="32.863" Bpm="121.40" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="48.679" Bpm="121.40" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="66.472" Bpm="121.40" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="90.690" Bpm="121.40" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="106.506" Bpm="121.40" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="124.299" Bpm="121.40" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="140.115" Bpm="121.40" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="164.333" Bpm="121.40" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="180.149" Bpm="121.40" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="197.942" Bpm="121.40" Metro="4/4" Battito="1"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="0">
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
