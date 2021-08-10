@@ -10,10 +10,7 @@ const trackPath = ['DJ_PLAYLISTS', 'COLLECTION', 0, 'TRACK']
 
 async function convertCollection(config) {
 
-    const { authData, libraryPath, destinationPath } = config
-
-    const iterationSize = 50; 
-    const timer = 100; //uses an 'async sleep' on each iteration to avoid api-rate limiting.
+    const { authData, libraryPath, destinationPath, iterationSize, timer } = config
     
     const [library, token] = await Promise.all(
         [
